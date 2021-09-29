@@ -1,7 +1,7 @@
 {
   "name": "@nested/app3",
   "version": "1.0.0",
-  "description": "",
+  "description": "Embedded micro app",
   "main": "index.js",
   "dependencies": {
     "react": "^16.13.1",
